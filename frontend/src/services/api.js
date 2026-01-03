@@ -1,6 +1,5 @@
 import axios from 'axios';
-
-const API_URL = 'https://contact-management-system-hbti.onrender.com/api/contacts';
+https://contact-management-system-hbti.onrender.com/api/contacts
 
 export const getAllContacts = async () => {
   try {
