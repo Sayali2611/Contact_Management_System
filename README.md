@@ -1,7 +1,9 @@
 Contact Management System - MERN Stack
 
 🚀 Live Application
-URL: [your-frontend.vercel.app]
+Frontend: https://contact-management-system-your-new.vercel.app  
+Backend API:https://contact-management-system-hbti.onrender.com  
+GitHub Repository:https://github.com/Sayali2611/Contact_Management_System
 
 ✅ All Requirements Met
 1. Contact Form with validation ✓
